@@ -1,1 +1,1 @@
-export JAVA_HOME=res/jre && export PATH=$JAVA_HOME/bin:$PATH && res/fuseki/fuseki start
+export JAVA_HOME=/home/daniel/Documents/fuseki-workshop/res/jdk && res/fuseki/fuseki stop
