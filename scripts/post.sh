@@ -1,0 +1,1 @@
+curl -X POST "http://localhost:3030/test1/query" -d "query=$(cat ../data/1.rq)"

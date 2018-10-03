@@ -1,0 +1,8 @@
+PREFIX ab: <http://learningsparql.com/ns/addressbook#>
+
+ab:daniel ab:homeTel "(71) 87654321" .
+ab:daniel ab:email "daniel@daniel.com" .
+ab:daniel ab:email "daniel@denovo.com" .
+
+ab:alfredo ab:homeTel "(71) 87654321" .
+ab:alfredo ab:homeTel "(71) 88888888" .

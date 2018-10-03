@@ -1,0 +1,1 @@
+res/jdk/bin/javac Main.java && res/jdk/bin/java Main && rm ./Main.class

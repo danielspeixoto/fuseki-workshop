@@ -1,0 +1,1 @@
+export JAVA_HOME=res/jre && export PATH=$JAVA_HOME/bin:$PATH && res/fuseki/fuseki start
