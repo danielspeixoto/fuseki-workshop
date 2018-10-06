@@ -1,0 +1,1 @@
+export JAVA_HOME=$(pwd)/res/jdk && res/fuseki/fuseki stop
